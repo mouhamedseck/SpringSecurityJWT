@@ -10,7 +10,7 @@ Endpoint Tests with Postman
               "password": "test"
           }
 
-- login [POST]
+- Login [POST]
   http://localhost:8080/api/auth/login
 
           {
@@ -20,4 +20,3 @@ Endpoint Tests with Postman
 
 - Logout [POST]
   http://localhost:8080/api/auth/logout
-# SpringSecurityJWT
